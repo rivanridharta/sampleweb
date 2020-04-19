@@ -1,4 +1,4 @@
-@media (max-width: 1000px) {
+@media all (max-width: 1000px) {
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -13,7 +13,7 @@
   }
 }
 
-@media (max-width: 670px) {
+@media all (max-width: 670px) {
   .lesson {
     width: 100%;
   }
